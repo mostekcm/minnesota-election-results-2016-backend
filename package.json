@@ -10,6 +10,9 @@
   },
   "author": "mostekcm",
   "license": "MIT",
+  "engines": {
+    "node": "4.1.1"
+  },
   "dependencies": {
     "cors": "^2.8.1",
     "express": "^4.14.0",
